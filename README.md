@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Yogeshwar 
-- 👀 I’m interested in Data Science , Deep Learning 
+- 🎓 B.Tech ECE(Major),CS(Minor)
+- 🏫 Pondicherry Technological University 
+- 👀 C | C++ | python | HTML | CSS | MySql | Django | MATLAB | Linux | ML | DL |
+- 🛠️ GitHub | Docker | Adobe Illustrator | Adobe Photoshop | Figma | 
+- 🖇 Connect with me on LinkedIn - www.linkedin.com/in/yogi512
+
 
 <!---
 yogi512/yogi512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
