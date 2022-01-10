@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Yogeshwar 
+## 👋 Hi, I’m Yogeshwar 
 - 🎓 B.Tech ECE(Major),CS(Minor)
 - 🏫 Pondicherry Technological University 
 - 👀 C | C++ | python | HTML | CSS | MySql | Django | MATLAB | Linux | ML | DL |
 - 🛠️ GitHub | Docker | Adobe Illustrator | Adobe Photoshop | Figma | 
 - 🖇 Connect with me on LinkedIn - www.linkedin.com/in/yogi512
+
 
 
 <!---
