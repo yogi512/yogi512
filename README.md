@@ -2,7 +2,7 @@
 - 🎓 B.Tech ECE(Major),CS(Minor)
 - 🏫 Pondicherry Technological University 
 - 👀 C | C++ | python | HTML | CSS | MySql | Django | MATLAB | Linux | ML | DL |
-- 🛠️ GitHub | Docker | Adobe Illustrator | Adobe Photoshop | Figma | 
+- 🛠️ GitHub | Docker | Adobe Illustrator | Adobe Photoshop | Figma | Procreate
 - 🖇 Connect with me on LinkedIn - www.linkedin.com/in/yogi512
 
 
