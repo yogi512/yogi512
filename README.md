@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Yogeshwar 
-- 🎓 B.Tech ECE(Major),CS(Minor)
-- 🏫 Pondicherry Technological University 
+- 🎓 Joint M.Sc Data Science and Artificial Intelligence | B.Tech ECE(Major),CS(Minor)
+- 🏫 Indian Institute of Technology, Madras | University of Birmingham | Puducherry Technological University 
 - 👀 C | C++ | python | HTML | CSS | MySql | Django | MATLAB | Linux | ML | DL |
 - 🛠️ GitHub | Docker | Adobe Illustrator | Adobe Photoshop | Figma | Procreate
 - 🖇 Connect with me on LinkedIn - www.linkedin.com/in/yogi512
